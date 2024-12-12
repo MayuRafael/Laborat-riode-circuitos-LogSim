@@ -1,0 +1,1 @@
+# Laborat-riode-circuitos-LogSim
