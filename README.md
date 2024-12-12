@@ -1,1 +1,1 @@
-# Laborat-riode-circuitos-LogSim
+# Laboratorio de circuitos LogSim
