@@ -396,6 +396,5 @@ Conexões ativas:
 ----------------------------------
 # 12 Considerações Finais
 Este trabalho apresentou o laboratório e implementação dos componentes dos circuitos. O objetivo principal era desenvolver os componentes, capaz de executar um conjunto básico de instruções. Os resultados obtidos demonstram que os circuitos é capaz de executar as instruções implementadas e atinge uma frequência de clock. A principal contribuição deste trabalho é a criação de um laboratório para o estudo de arquitetura de computadores. Como trabalhos futuros, sugere-se a implementação de um conjunto de instruções mais completo, a otimização do desempenho dos componentes e simplificado para rodar no processador.
-
  
   
