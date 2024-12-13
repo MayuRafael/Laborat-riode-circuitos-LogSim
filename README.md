@@ -223,7 +223,7 @@ Conexões ativas:
 Resultado dos pinos de saída:
 * Verificar os dados: Observar os valores nos pinos de dados para cada combinação de endereço. Esses valores devem corresponder aos dados pré-armazenados na ROM. 
 4. Descrição dos testes
-Exemplo de teste:
+
 * Selecionar um endereço específico: Aplicar um valor binário nas linhas de endereço para selecionar uma determinada palavra. 
 * Verificar a saída: Os pinos de dados devem indicar o valor da palavra selecionada, conforme a programação da ROM.
    
@@ -293,7 +293,6 @@ Resultado dos pinos de saída:
   
 4.  Descrição dos testes
    
-Exemplo de teste:
 * 1. Soma de números pequenos: Somar números pequenos para verificar se a soma está sendo realizada corretamente. 
 * 2. Soma de números grandes: Somar números grandes para verificar se o carry-out está sendo gerado corretamente em casos de overflow. 
 * 3. Casos de borda: Testar casos onde um dos números é zero, onde ambos os números são iguais ao valor máximo, etc. 
@@ -325,7 +324,7 @@ Resultado dos pinos de saída:
 
 * Verificar a saída: Observar o valor da saída para cada combinação de entrada. A saída deve ser 1 somente quando a sequência "101" estiver presente na entrada.
 4. Descrição dos testes
-Exemplo de teste:
+
 
 * Sequência "101" no meio: Aplicar uma sequência de bits com "101" no meio e verificar se a saída é 1.
 * Sequência "101" no início: Aplicar uma sequência de bits com "101" no início e verificar se a saída é 1.
@@ -386,13 +385,13 @@ Pinos de entrada:
 Conexões ativas:
 * Variar as entradas de 4 bits: Aplicar diferentes combinações de bits nas entradas de 4 bits. 
 5. Resultado dos pinos de saída:
-* Verificar a saída: Observar os valores nas saídas para verificar se os quatro bits mais significativos são cópias dos quatro bits menos significativos. 
+* Verificar a saída: Observe os valores nas saídas para verificar se os quatro bits mais significativos são cópias dos quatro bits menos significativos. 
 6. Descrição dos testes
 ----------------------------------
 7. teste:
 * Entrada 0000: Aplicar 0000 nas entradas de 4 bits e verificar se a saída é 00000000. 
 * Entrada 1111: Aplicar 1111 nas entradas de 4 bits e verificar se a saída é 11111111. 
-* Entrada aleatória: Aplicar diferentes combinações aleatórias de bits nas entradas de 4 bits e verificar se os quatro bits mais significativos são cópias dos quatro 8. bits menos significativos. 
+* Entrada aleatória: Aplicar diferentes combinações aleatórias de bits nas entradas de 4 bits e verificar se os quatro bits mais significativos são cópias dos quatro bits menos significativos. 
 ----------------------------------
 # 12 Considerações Finais  
 Este trabalho apresentou o laboratório e implementação dos componentes dos circuitos. O objetivo principal era desenvolver os componentes, capaz de executar um conjunto básico de instruções. Os resultados obtidos demonstram que os circuitos é capaz de executar as instruções implementadas e atinge uma frequência de clock. A principal contribuição deste trabalho é a criação de um laboratório para o estudo de arquitetura de computadores. Como trabalhos futuros, sugere-se a implementação de um conjunto de instruções mais completo, a otimização do desempenho dos componentes e simplificado para rodar no processador.
