@@ -8,7 +8,7 @@ Rafael da Silva
 
  # Objetivo
 
-Este trabalho apresenta o projeto e a implementação de um laboratório prático de circuitos digitais, com o objetivo de proporcionar atividades e experiência os fundamentos da eletrônica digital. Foram construídos alguns circuitos, desde componentes básicos como portas lógicas e registradores até sistemas mais complexos como ULA e máquinas de estado. A prática laboratorial abrangeu desde o projeto e simulação e teste dos circuitos, utilizando ferramenta LogSim.
+Este trabalho apresenta o projeto e a implementação de um laboratório prático de circuitos digitais, com o objetivo de proporcionar atividades e experiência os fundamentos da eletrônica digital. Foram construídos alguns circuitos, desde componentes básicos como portas lógicas e registradores até sistemas mais complexos como ULA. A prática laboratorial abrangeu desde o projeto e simulação e teste dos circuitos, utilizando ferramenta LogSim.
 
 # Conteúdos
 
