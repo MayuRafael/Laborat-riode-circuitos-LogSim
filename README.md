@@ -17,7 +17,6 @@ Este trabalho apresenta o projeto e a implementação de um laboratório prátic
 3.  Porta lógica XOR usando os componentes: AND, NOT, e OR.
 4.  Somador de 8 bits que recebe um valor inteiro e soma com o valor 4.
 5.  Memória ROM de 8 bits.
-6.  Memória RAM de 8 bits.
 7.  Banco de Registradores de 8 bits.
 8.  Somador de 8 bits.
 9.  Detector de sequência binária para identificar a sequência "101" em um fluxo de entrada.
